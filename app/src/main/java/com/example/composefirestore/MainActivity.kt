@@ -73,7 +73,7 @@ fun Birth(m: Modifier){
         )
 
 
-        Text("您輸入的姓名是：$userName")
+        Text("您輸入的姓名是：$userName\n出生體重為：$userWeight 公克")
     }
 
 }
