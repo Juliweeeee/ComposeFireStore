@@ -43,6 +43,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
 @Composable
 fun Birth(m: Modifier){
 
